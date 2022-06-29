@@ -1,0 +1,44 @@
+/*[class*="col"] {
+    border: solid 1px black;
+}*/
+
+body {
+    font-size: 30px;
+}
+
+img.logo {
+    width: 150px;
+    height: 150px;
+}
+
+img {
+    height: 300px;
+}
+
+#images {
+    max-height: 250px;
+}
+
+#repUser {
+    border-color: black;
+    margin-left: 70%;
+    margin-top: 7px;
+    width: 200px;
+}
+
+#reponse {
+    font-size: 22px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#essaie {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#justePrix {
+    font-size: 20px;
+    text-align: center;
+}
